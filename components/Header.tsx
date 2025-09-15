@@ -12,6 +12,7 @@ export default function Header() {
     { name: 'Projects', href: '/projects' },
     { name: 'Issues Dashboard', href: '/issues' },
     { name: 'About', href: '/about' },
+    { name: 'Contact Us', href: '/contact' },
   ]
 
   return (
